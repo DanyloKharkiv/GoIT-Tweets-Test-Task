@@ -10,13 +10,13 @@ import './index.css';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Provider store={store}>
-      <PersistGate loading={null} persistor={persistor}>
-        <BrowserRouter basename="goit-tweets-test-task">
+    <BrowserRouter basename="goit-tweets-test-task">
+      <Provider store={store}>
+        <PersistGate loading={null} persistor={persistor}>
           <App />
-        </BrowserRouter>
-      </PersistGate>
-    </Provider>
+        </PersistGate>
+      </Provider>
+    </BrowserRouter>
   </React.StrictMode>
 );
 
