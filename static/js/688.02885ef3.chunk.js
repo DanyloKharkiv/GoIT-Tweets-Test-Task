@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktweets=self.webpackChunktweets||[]).push([[688],{688:function(e,n,t){t.r(n),t.d(n,{default:function(){return a}});var r,s,c=t(168),i=t(444),u=t(839),o=i.ZP.section(r||(r=(0,c.Z)(["\n  padding: 100px 0;\n"]))),f=i.ZP.h1(s||(s=(0,c.Z)(["\n  font-size: 30px;\n  font-weight: 900;\n  text-align: center;\n  color: ",";\n"])),u.O.userImageBgrnd),l=t(329),a=function(){return(0,l.jsx)(o,{children:(0,l.jsx)(f,{children:"Welcome to Tweets!"})})}}}]);
+//# sourceMappingURL=688.02885ef3.chunk.js.map
