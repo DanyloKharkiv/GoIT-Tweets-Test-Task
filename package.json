@@ -2,7 +2,7 @@
   "name": "Tweets",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://DanyloKharkiv.github.io/GoIT-Tweets-Test-Task/",
+  "homepage": "https://DanyloKharkiv.github.io/goit-tweets-test-task/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.5",
