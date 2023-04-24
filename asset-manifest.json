@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/GoIT-Tweets-Test-Task/static/css/main.66f9afd2.css",
+    "main.js": "/GoIT-Tweets-Test-Task/static/js/main.5d865613.js",
+    "static/js/688.e0d03ac9.chunk.js": "/GoIT-Tweets-Test-Task/static/js/688.e0d03ac9.chunk.js",
+    "static/js/670.93a51bed.chunk.js": "/GoIT-Tweets-Test-Task/static/js/670.93a51bed.chunk.js",
+    "static/media/profile-background.png": "/GoIT-Tweets-Test-Task/static/media/profile-background.b186e544641a66e17d83.png",
+    "index.html": "/GoIT-Tweets-Test-Task/index.html",
+    "main.66f9afd2.css.map": "/GoIT-Tweets-Test-Task/static/css/main.66f9afd2.css.map",
+    "main.5d865613.js.map": "/GoIT-Tweets-Test-Task/static/js/main.5d865613.js.map",
+    "688.e0d03ac9.chunk.js.map": "/GoIT-Tweets-Test-Task/static/js/688.e0d03ac9.chunk.js.map",
+    "670.93a51bed.chunk.js.map": "/GoIT-Tweets-Test-Task/static/js/670.93a51bed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66f9afd2.css",
+    "static/js/main.5d865613.js"
+  ]
+}
